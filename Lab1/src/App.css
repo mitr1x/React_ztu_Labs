@@ -1,0 +1,7 @@
+.MyTable{
+  border-collapse: collapse;
+}
+
+tr, td{
+  border: 1px solid #000;
+}
